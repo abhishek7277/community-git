@@ -5,4 +5,4 @@ c=a*b
 for i in range(0,a+1):
   print(a*i)
 
-print(c)
+
